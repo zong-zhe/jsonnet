@@ -1,2 +1,0 @@
-# jsonnet3
-Test
