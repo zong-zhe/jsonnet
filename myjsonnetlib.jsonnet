@@ -1,7 +1,5 @@
-local tom = import "myjsonnetlib1.jsonnet";
-
 {
-  name: "Alice",
+  name: "J",
   age: 20,
-  welcome: "Hello " + tom.name
+  welcome: "Hello "
 }
