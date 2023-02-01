@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/zong-zhe/jsonnet1.git",
+          "subdir": ""
+        }
+      },
+      "version": "e17b16364499e491047e5d12891970c73b662194",
+      "sum": "c2SRrtpuLcPLxXZIBZDDVhByh6mTEHXdxx6hKmVqWEs="
+    },
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/zong-zhe/jsonnet2.git",
+          "subdir": ""
+        }
+      },
+      "version": "6daae5ee1251634d2ae4d550c06a3b5ec3ebea76",
+      "sum": "q2+eSTHV4CbeaPFOTxQIBgabVJUNKjJf70stdQJjb7w="
+    },
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/zong-zhe/jsonnet3.git",
+          "subdir": ""
+        }
+      },
+      "version": "a467e6d225b81054d5f41de52477d53e821e7c4a",
+      "sum": "ORcfSzd+5nzw4gqD5xZxtA45BYBiFU2N2EdtT1ULyLk="
+    }
+  ],
+  "legacyImports": false
+}

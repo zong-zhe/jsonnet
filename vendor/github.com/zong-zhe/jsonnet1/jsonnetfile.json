@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/zong-zhe/jsonnet3.git",
+          "subdir": ""
+        }
+      },
+      "version": "main"
+    }
+  ],
+  "legacyImports": true
+}
